@@ -16,8 +16,8 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "SpaceMonkey",
-            url: "https://scontent-sjc3-1.xx.fbcdn.net/m1/v/t6/An8-CrusZLihZg8u29iqPCii-bt8DkjI7exHAS5wlyoQgb6OKyB3RoAXZWIJCug93vNPEsYsrpvyXNBVPJPMFIp84t_1ur6Zemr3OV9jVBDoVW8SyIkUa6mAfQ.zip?ccb=10-5&oh=00_AfAJT9OoOWycCxrubHTJVR69RcdMWIs7AK7-3CrUieyRbQ&oe=651ED4E6&_nc_sid=45a1d8",
-            checksum: "a6cc2a1354b5d3b3d8a3239723f505852cf89de92d1dd35acc8bf065ecdc9d2d"
+            url: "https://github.com/xta0/SpaceMonkey/archive/refs/tags/1.0.0.zip",
+            checksum: "d8d4f812f9779eb07f9fc9c0acc5f0a73b11cefb85bf22d78eb37828243814b7"
         ),
     ]
 )
