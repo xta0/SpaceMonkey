@@ -16,7 +16,7 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "SpaceMonkey",
-            url: "https://github.com/xta0/SpaceMonkey/archive/refs/tags/1.0.0.zip",
+            url: "https://github.com/xta0/SpaceMonkey/releases/download/1.0.0/SpaceMonkey-Dynamic-XCFramework.zip",
             checksum: "d8d4f812f9779eb07f9fc9c0acc5f0a73b11cefb85bf22d78eb37828243814b7"
         ),
     ]
